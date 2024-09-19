@@ -1,4 +1,4 @@
-# This program prints Hello, world!
+ This program prints Hello, world!
 
-print('Hello, team!')
-print ("hello students")
+print('Hello, shiva!')
+print ("hello mahi")
